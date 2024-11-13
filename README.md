@@ -17,5 +17,4 @@ sudo apt install nvidia-cuda-toolkit
 ```
 
 ## Video do codigo funcionando
-[Assista ao vídeo aqui]([https://exemplo.com/seu-video.mp4](https://youtu.be/ZJ0H-FDoOTM))
 Link: https://youtu.be/ZJ0H-FDoOTM
