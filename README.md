@@ -1,7 +1,7 @@
 # Soma de Vetores em Cuda
 
 
-##Configurando ambiente 
+## Configurando ambiente 
 
 ```bash
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove
@@ -16,6 +16,6 @@ sudo sh cuda_12.6.0_560.28.03_linux.run
 sudo apt install nvidia-cuda-toolkit
 ```
 
-##Video do codigo funcionando
+## Video do codigo funcionando
 [Assista ao vídeo aqui]([https://exemplo.com/seu-video.mp4](https://youtu.be/ZJ0H-FDoOTM))
 Link: https://youtu.be/ZJ0H-FDoOTM
